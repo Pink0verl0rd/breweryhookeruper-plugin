@@ -34,7 +34,7 @@
 
         // include_once BREWERYHOOKERUPER_PATH . 'includes/options-page.php';
 
-        // include_once BREWERYHOOKERUPER_PATH . 'includes/contact-form.php';
+        include_once BREWERYHOOKERUPER_PATH . 'functions.php';
 
     }
 
